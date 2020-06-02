@@ -1,0 +1,26 @@
+/* style.css */
+body{
+  background: rgb(245,245,245);
+  color: black;
+  font-size: 12px;
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+h1{
+  font-family: Courier;
+  color: blue;
+  font-weight: lighter;
+  font-size: 12px;
+}
+h2 {
+  font-family: Courier;
+  color: blue;
+  font-weight: lighter;
+  font-size: 12px;
+}
+a {
+  color: pink;
+}
+a:hover {
+  text-decoration: none;
+  color: green;
+}
